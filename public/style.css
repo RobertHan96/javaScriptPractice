@@ -24,7 +24,7 @@
     background-color:ghostwhite ;
 }
 ::placeholder { 
-    color: white;
+    color:black;
 }
 .js-toDoList{ 
     padding: 5px;
